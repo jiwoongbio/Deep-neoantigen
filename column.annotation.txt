@@ -1,0 +1,18 @@
+Chromosome	CHROM
+Position	POS
+Reference base	REF
+Alternate base	ALT
+Gene name	Annomen.geneName
+Region type	Annomen.region
+Mutation class	Annomen.mutation
+Strand	Annomen.strand
+Splice distance	Annomen.spliceDistance
+Transcript ID	Annomen.transcriptId
+Protein ID	Annomen.proteinId
+Transcript variation nomenclature	Annomen.nucleotideVariationNomenclature
+Protein variation nomenclature	Annomen.proteinVariationNomenclature
+Mutation peptides	Annomen.peptides
+dbSNP150	(snp150.name)
+dbSNP150 subset	(snp150.subset)
+dbSNP150 allele count	(snp150.alleleN)
+dbSNP150 allele frequency	(snp150.alleleFreq)
